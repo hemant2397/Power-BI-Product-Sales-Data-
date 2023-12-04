@@ -1,4 +1,4 @@
-# Power-BI-Product-Sales-Data-
+# Sales-Product-Data_using_POWER-BI
 
 This repository contains Power BI product sales data. The data is in CSV format and includes the following columns:
 
